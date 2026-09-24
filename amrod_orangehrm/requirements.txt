@@ -1,0 +1,4 @@
+selenium>=4.20
+behave>=1.2.6
+allure-behave>=2.13
+python-dotenv>=1.0
