@@ -8,7 +8,8 @@
 
 ## 2.Setup
 ```bash
-git clone repo-url
+git clone "https://github.com/OratilweBoitumelo/Assessments.git"
+cd assessments
 cd amrod_orangehrm
 
 python -m venv .venv             
